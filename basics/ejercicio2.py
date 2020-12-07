@@ -1,4 +1,4 @@
-# Ejercicio 2
+#Ejercicio 2
 
 a = float(input("Ingrese el valor de a: "))
 b = float(input("Ingrese el valor de b: "))
